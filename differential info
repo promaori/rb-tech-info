@@ -1,0 +1,315 @@
+Nissan R200 diff ratios + drivetrain info
+sourced from: http://www.eatsleepboost.lt/tech-info/nissan-tech-info/nissan-r200-diff-ratios/
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Nissan R200 diff ratios:
+
+3.133 – 47/15
+3.357 – 47/14
+3.538 – 46/13
+3.692 – 48/13
+3.916 – 47/12
+4.083 – 49/12
+4.111 – 37/9
+4.363 – 48/11
+4.375 – 35/8
+4.625 – 37/8
+4.636 – 51/11
+4.875 – 39/8
+4.900 – 49/10
+5.143 – 36/7
+
+Z32 – VG30DETT – R230V – 3.692 (6×1 output shafts)
+Z32 – VG30DE – R200V – 4.083 (5×1 output shafts)
+Z33 – MT – R200 – 3.538 (6×1 output shafts)
+Z33 – MT – R200V – 3.538 (6×1 output shafts)
+Z33 – AT – R200V – 3.357 (6×1 output shafts)
+Z34 – MT – R200V – 3.692
+Z34 – AT – R200V – 3.357
+
+G35 – Sedan – AT – R200 – 3.357
+G35 – Sedan – MT – R200V – 3.538
+G35 – Sedan – AWD – AT – R200 – 3.357
+G35 – Coupe – MT – R200V – 3.538
+G35 – Coupe – AT – R200 – 3.357
+G35 – Coupe – AT – R200V – 3.357
+G37 – Sedan – MT – R200V – 3.692
+G37 – Sedan – AT – R200V – 3.357
+Q45 – G50 – VH45D – R200V – 3.538
+Q45 – FY33 – R200V – 3.692
+J30 – R200V – 3.916
+
+R32 GTE – RB20E – 4.363
+R32 GTE – RB20E (ABS) – manual/auto – 4.083
+R32 GTS-t – RB20DET – manual/auto – 4.363
+R32 – RB20DET 4wd – manual – 4.375
+R32 – RB25DE – auto – 3.538
+R32 GTR – RB26DETT – manual – F160 – 4.111 – (Front final gear)
+R32 GTR – RB26DETT – manual – R200 (clutch type LSD) – 4.111
+
+R33 GTS – RB20E – manual/auto – 4.083
+R33 GTS – RB20E (96.1+) – auto – 3.538
+R33 GTS – RB25DE (93-95) – auto – 3.538
+R33 GTS – RB25DE (96+) – auto – 4.363
+R33 GTS – RB25DE – manual – 4.363
+R33 GTS-4- RB25DE 4wd – manual/auto – 4.363
+R33 GTST – RB25DET – manual – R200V – 4.111
+R33 GTST – RB25DET – auto – 4.363
+R33 GTR – RB26DETT – manual – R200 (mechanical LSD) – 4.111 (6×1 output shafts)
+R33 GTR Vspec – RB26DETT – manual – R200V (ATTESSA hydraulic controlled) – 4.111 (6×1 output shafts)
+
+R34 GT – RB20DE – manual/auto – 4.363
+R34 GT – RB25DE – manual – 4.363
+R34 GT – RB25DE – auto – 4.083
+R34 GT-FOUR – RB25DE 4wd – manual/auto – 4.363
+R34 GTT – RB25DET – manual – R200H – 4.111
+R34 GTT – RB25DET – auto – 4.111
+R34 GTR – RB26DETT – manual – R200 – 3.545
+
+S15 – SR20DE – manual/auto – 4.083
+S15 – SR20DET – manual – R200H – 3.692
+S15 – SR20DET – auto – R200V – 3.916
+
+S14 – KA24DE – USDM – manual/auto – 4.083
+S14 – SR20DET – EDM – manual – R200V – 3.692
+S14 – SR20DET – EDM – auto – R200V – 3.916
+S14 – SR20DET – ADM – manual – 3.692
+S14 – SR20DE – JDM – manual – 4.083
+S14 – SR20DET – JDM – manual – 4.083
+S14 – SR20DET – JDM – auto – 3.916
+
+S13 – KA24DE – USDM – manual/auto – R200/R200V – 4.083
+S13 – CA18DE – JDM – r180 6 bolt – manual/auto – 4.363
+S13 – CA18DET – EDM – manual/auto – R200/R200V – 3.916
+S13 – CA18DET – ADM – manual/auto – 4.363
+S13 – CA18DET – JDM – manual/auto – 4.363
+S13 – SR20DE (ABS) – manual/auto – 4.111
+S13 – SR20DET – manual – 4.111
+S13 – SR20DET – auto – 3.916
+PS13/RPS13 – SR20DE (ABS) – JDM – manual/auto – 4.083
+PS13/RPS13 – SR20DET – JDM – manual – 4.083
+PS13/RPS13 – SR20DET – JDM – auto – 3.916
+
+A31 – RB20E – manual/auto – 3.916 (5 & 6 bolt)
+A31 – RB20DE – manual – 4.363
+A31 – RB20DE – auto – 4.083
+A31 – RB20DET – manual/auto – 4.363
+A31 – RB20DET 4wd – manual/auto – 4.375
+A31 – RB25DE – auto – 3.538
+
+C23 – SR20DE – manual/auto – 4.363
+C23 – CD20T – manual/auto – 4.363
+C23 – LD23 – manual/auto – 4.363
+C23 – CD20T 4wd – manual/auto – 4.636
+C23 – LD23 4wd – manual/auto – 4.636
+C23 – SR20DE 4wd – auto – 4.900
+C23 – SR20DE 4wd – manual – 4.636
+C23 – GA16DE – 4.636
+
+C33 – RD28 – manual – 3.916
+C33 – RD28 – auto – 3.692
+C33 – RB20E – auto – 3.583
+C33 – RB20DE – manual – 4.363
+C33 – RB20DE – auto – 4.083
+C33 – RB20DET – auto – 4.363
+C33 – RB20E/RB25DE – auto – 3.538
+
+C34 – RB20E – manual/auto – 3.916
+C34 – RB20DE – auto – 4.111
+C34 – RB25DE – auto – 4.363
+C34 – RB25DE 4wd – auto – 4.363
+C34 – RB25DET – auto – 4.111
+
+C35 – RD28 – manual/auto – 3.692
+C35 – RB20DE – auto – 4.111
+C35 – RB25DE 4wd – auto – 4.363
+C35 – RB25DET – auto – 4.111
+
+Y32 – VG20E – AT – 4.636
+Y32 – VG30D/ VG30E – AT – 3.133
+Y32 – VG30DET – AT – 3.692
+Y32 – RD28 – AT – 4.083
+Y33 – VG20E – AT – R200/R200V – 4.636
+Y33 – RD28 – AT – 4.083
+Y33 – VG30DE – AT – 4.083
+Y33 – VG30DET – AT – 3.916
+
+WC34 – SR20DE 4wd – manual/auto – 4.363
+WC34 – RB20E – manual/auto – 4.083
+WC34 – RB20DE – manual/auto – 4.083
+WC34 – RB25DE – manual/auto – 4.083
+WC34 – RB25DET – manual/auto – 4.083
+WC34 – RB25DET 4wd – manual – 4.111
+WC34 – RB25DET 4wd – auto – 4.083
+WC34 – RB26DETT 4wd – manual – 4.111
+
+2004-2007 R51 Pathfinder 2WD – R200 – 3.133 (uses 13mm ring gear bolts instead of regular R200 12mm ones) – this fits 350z R200 case
+
+1997-2001 R50 Terrano AT/MT VG33E 4WD front diff – 4.636
+
+--------------------------------------------------------------------------------------------------------------------------------------
+OE Part numbers
+
+R200/C200 part numbers only – please be aware that there are R180, H190 and C233b differentials also available and their ring and pinion are not interchangeable with R200 case
+38100-17M60 47/15 3.133 Y32 Cedric/Gloria VG30E/VG30D
+38100-08M60 47/14 3.357 JHG50 President VH45D
+38100-09M60 46/13 3.538 R32 RB25DE AT, R33 RB25DE AT, C33 RB20E AT
+38100-10M60 46/13 3.538 G50 VH45D
+38100-01M60 48/13 3.692 S14 MT
+38100-11M60 48/13 3.692 C34 RD28 AT, Y32 VH41DE/VG30DET, AUDM S14 SR20DET MT
+38100-F3200 (38100-F3201) 37/10 3.700 F22 WT.TD23, D22 YD25 2WD
+38100-F3300 39/10 3.900 D21 KA24 2WD
+38100-02M60 (38100-02M65) 47/12 3.917 S13 CA18DET
+38100-12M65 47/12 3.917 S14 SR20DET AT 96+
+38100-03M60 49/12 4.083 S13 SR20DET
+38100-13M60 49/12 4.083 Z32 VG30DE, S14 KA24DE/SR20DET 1296+ (13mm bolts)
+38100-03W00 (38100-03W60) 49/12 4.083 Terrano R50 ZD30 front diff
+38100-F3401 (38100-F3480) 37/9 4.111 R20 KA24 2WD, D22 KA24 2WD rear C200
+38100-04W00 (38100-04W60) 48/11 4.363 Terrano R50 TD27 front diff
+38100-04M00 (38100-04M60) 48/11 4.363 Serena C23M SR20 – R200
+38100-F3500 (38100-F3580) 35/8 4.375 Terrano WD21 VG30 MT front diff, D21 TD25 rear C200 (12mm bolts)
+38100-F5600 (38100-F5601, 38100-F5680) 37/8 4.625 Terrano WD21 VG30 AT (0190+), R20 KA24 4WD rear C200
+38100-05M00 (38100-05M60) 51/11 4.636 Xterra WD22 front, Frontier D22U, Serena C23M High Roof rear C200 (12mm bolts)
+38100-15M60 51/11 4.636 C23 SR20DE 4WD MT + CD20ET 4WD, W30 KA24 4WD + CD20TI 2WD
+38100-F5700 (38100-F5701, 38100-F5780) 39/8 4.875 E24 TD23 MT, Terrano WD21 TD27 rear C200 (12mm bolts)
+38100-06M60 49/10 4.900 C23 SR20 AT 4WD rear R200
+38100-F5800 (38100-F5880) 36/7 5.143 E24 TD23 AT, Caravan E25, Vanette LARGO rear C200
+
+38100-05W00 (38100-05W60) 51/11 4.636 found in Vanette/QX4, R50 VG33E (1097-0700) and some other cars are reverse cut gears and will not work in RWD application
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Diff output shafts / stubs
+
+3×2 use 8mm bolts, 5×1 use 8 or 10mm bolts, 6×1 use 10mm bolts
+29 and 30 spline stubs are 30mm outside diameter
+31 spline stubs are 33mm outside diameter
+
+S13 CA18/KA24/SR20DE/SR20DET AT – 30mm, 29 spline, 3×2
+S13 SR20DET MT – 30mm, 29 spline, 5×1
+S14 (pre 96/12) – 30mm, 29 spline, 3×2
+S14 (96/12+) – 30mm, 30 spline, 3×2
+S15 – 30mm, 30 spline, 3×2
+J30 (pre 94) – 30mm, 29 spline, 5×1
+J30 (94+) – 30mm, 30 spline, 3×2
+Z32 NA – 30mm, 29 spline, 5×1
+Z32 TT – 31 spline, 6×1
+Z33 – 32mm, 31 spline, 6×1
+Q45 G50 (pre 96) – 30mm, 30 spline, 6×1
+Q45 (96+)- 30mm, 30 spline, 5×1
+R32 GTS-T – 30mm, 29 spline, 5×1
+R32 GTR (pre pull clutch/94) – 30mm, 30 spline, 6×1
+R32 GTR (94+) – 33mm , 31 spline, 6×1
+R33 GTS-T – 30mm, 29 spline, 5×1
+R33 GTR – 33mm, 31 spline, 6×1
+R34 GTT – 30mm, 30 spline, 5×1
+R34 GTR – 30 spline, 6×1
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Axles
+
+There are two types of axles – tripod (regular s-body axles) and Rzeppa style (z32, skylines, q45 etc). Rzeppa ones are stronger due to bigger contact patch inside the cv joint.
+
+S13, S14, S15, J30, Z32 NA, Z33, R32, R33 GTST – smaller shaft splines (29 spline, 30mm)
+Q45, Z32 TT, R33 GTR, R34 GTR – bigger shaft splines (32 spline, 32.5mm OD)
+
+S13, S14, S15, J30 (94+) – tripod cv joints
+J30 (pre 94), Q45, Z32, Z33, R32 GTR, R33 GTR – Rzeppa style cv joints
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Differential bearings
+
+R200 side bearings x2 38440N3110 (38440N3111), SKF 30209 (45x85x20.75 mm)
+R200 pinion front bearing 3812013210, SKF 32306 (30x72x28.75 mm)
+R200 pinion rear bearing 3812006P10, NSK r35-24, KOYO TR070904 (34.97x89x38.33 mm)
+R200 Oil seals
+
+Pinion oil seal 38189-Y0810, 38189-Y081A – 40x75x12
+Alternate aftermarket part # Corteco 19034067B/19016674B, NOK BH3063E, SKF 15882
+
+Side stub seal 38342-P9000, 38342-N3100 – 35x55x11
+Alternate part # SKF 550231, TIMKEN 223542
+
+R200 long nose pinion seal part OEM number 38189-N3100, stub seal 38342-N3100
+Tightnening torque, preload and backlash
+
+Diff oil fill and drain plugs – 36-59Nm (4-6kgm) with sealant, 59-98Nm without sealant
+Transmission oil fill and drain plugs – 25-34Nm
+
+Stub bearing caps – 88-98Nm (9-10kgm)
+Drive pinion nut – 186-294Nm (19-30kgm)
+Crown ring gear bolts – 132-152Nm (13.5-15.5kgm) with locktite
+Rear cover – 39-49Nm (4-5kgm)
+
+Ring gear to drive pinion backlash – 0.10-0.15mm
+Drive pinion preload – 1.4-3.1Nm
+Crown gear bolts
+
+Crowns uses two types of bolts – 12mm (12×1.25 thread pitch) and 13mm (13×1.25 thread pitch).
+12mm thread, 12mm shank – 38102-12S00
+S13, S14 up to 12/96, J30 up to 12/96
+
+13mm thread, 13mm shank – 38102-10V00
+S14 from 12/96, Z32, Z33, Q45, J30 from 12/96
+
+12mm thread, 13mm shank – 38102-RS500
+S15 with helical LSD
+
+Most aftermarket LSD units uses 13mm shank bolts to fit all types of crown rings. So you should check which bolts you should use with your LSD/crown wheel combo.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Gearbox ratios
+
+S13 CA18DET (EURO)
+1- 3.592
+2- 2.057
+3- 1.361
+4- 1.000
+5- 0.821
+
+S13 CA18DET (JDM)
+1- 3.321
+2- 1.902
+3- 1.308
+4- 1.000
+5- 0.838
+
+S13 SR20DET (also same on all KA24 engines)
+1- 3.321
+2- 1.902
+3- 1.308
+4- 1.000
+5- 0.759
+
+S14 SR20DET
+1- 3.321
+2- 1.902
+3- 1.308
+4- 1.000
+5- 0.838
+
+S15 SR20DET 6speed
+1- 3.626
+2- 2.200
+3- 1.541
+4- 1.213
+5- 1.000
+6- 0.767
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Driveshaft info
+
+S13 front part:
+AT – 432mm
+MT – 395mm
+
+S13 rear part:
+ABS – 590mm
+NON-ABS – 605mm
+
+S14 front part:
+AT – 441mm
+MT – 421mm
+
+S14 rear part:
+ABS – 636mm
+NON-ABS – 650mm
